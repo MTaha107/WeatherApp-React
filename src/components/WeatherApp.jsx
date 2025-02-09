@@ -2,7 +2,7 @@ import React, { useEffect, useRef, useState } from 'react'
 
 export default function WeatherApp() {
 
-  const myapiKey = "6ceb0afccc313bd45ffd6ac21ebed5dc"
+  const myapiKey = "Shukar ha insta dekh ke change krlia wrna feild meri khatre me par jati"
   const [weatherData,setWeatherData] = useState(false);
   const inputRef = useRef();
 
